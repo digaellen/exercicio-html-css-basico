@@ -1,0 +1,13 @@
+p {
+    margin: 40px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.paragrafo-padrao {
+    background-color: #F5F5F5;
+}
+
+.paragrafo-destaque {
+    background-color: #f0cce2;
+}
